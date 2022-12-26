@@ -19,3 +19,6 @@ App dibuat dengan Python dengan framework Streamlit. Tediri dari 2 page yakni re
 `scikit-learn==1.1.1` 
 
 `streamlit==1.11.1`
+
+## Cara Menggunakan
+Jalankan file main.py dengan `streamlit run main.py`
